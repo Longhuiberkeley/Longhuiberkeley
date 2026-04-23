@@ -10,6 +10,7 @@ A UC Berkeley Applied Mathematics graduate specializing in AI workflows, medical
 
 - **[SpecFlow](https://github.com/Longhuiberkeley/specflow)**
   Compliance-grade spec tracking in Git, designed for the era of AI-assisted coding. It replaces traditional ALM tools by keeping requirements, architecture, and audit records as Markdown files directly in your repository.
+  - [A 10mins Presentation](https://longhuiberkeley.github.io/specflow_why)
 - **[AI Unpacked (LLM Mastery Series)](https://longhuiberkeley.github.io/llm_tutorial_site/en/)**
   An interactive, comprehensive curriculum designed to build intuition for Large Language Models using analogies and interactives, making AI literacy approachable.
 
